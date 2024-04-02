@@ -1,0 +1,11 @@
+#include "token.h"
+#include <stdio.h>
+#include "color.h"
+
+int main()
+{
+  struct token_t myToken = create_simple_token(3);
+  printf("Token: [%d, %d, %d, %d, %d]\n", myToken.c[0],myToken.c[1],myToken.c[2], myToken.c[3], myToken.c[4]);
+   token_display({{1,1,0,0,0}},"    -");
+  return 0;
+}

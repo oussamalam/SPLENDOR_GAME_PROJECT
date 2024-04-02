@@ -1,0 +1,14 @@
+séance 17/11:
+la creation du fichier token.c ou on peux creer des nouveaux jetons  aussi que notre market ou on dispose tous les tokens disponible pour notre partie puis le guild.c ou on dispose de tous les architectes disponibles pour la partie 
+Création des fichiers guild.h et guild.c 
+
+Séance du 14/11: 
+Finition de builder.c qui affiche les builders demandés comme voulu ainsi que création et développement du makefile 
+Les teste sont encore en "visibles" modification requise 
+
+To do liste: 
+Il faut modifier le Makefile pour ne plus avoir de vérification visibles mais on va mettre les assert 
+Finir guild.c et market.c et après crétion de tableau 
+Faire le fichier project.c pour que les test soient corrects 
+
+objectif de la semaine prochaine: Avoir fait la version de base. 
